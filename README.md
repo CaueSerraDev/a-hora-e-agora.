@@ -192,6 +192,7 @@ Interessado em:
 
 * Desenvolvimento Web
 * Tecnologia
+* React Native
 * Finanças e investimentos
 * Projetos educacionais
 
